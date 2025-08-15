@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abdullah Kemal</h1>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate AI developer from Türkiye</h3>
 
 - 📫 How to reach me **abdullah.kemal.bulut@gmail.com**
